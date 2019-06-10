@@ -1,0 +1,28 @@
+{
+  "name": "gulp-boilerplate",
+  "version": "1.0.0",
+  "description": "Bootstrap, jQuery, Sass, Html5",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akronim/gulp-boilerplate.git"
+  },
+  "keywords": [
+    "Bootstrap",
+    "jQuery",
+    "Sass",
+    "Html5"
+  ],
+  "author": "Marinko Mišković",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/akronim/gulp-boilerplate/issues"
+  },
+  "homepage": "https://github.com/akronim/gulp-boilerplate#readme",
+  "dependencies": {
+    "gulp": "^4.0.2"
+  }
+}
