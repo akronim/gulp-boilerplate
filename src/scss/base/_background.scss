@@ -1,0 +1,7 @@
+.bg-gradient-marinkoDark {
+  background: $black linear-gradient($black, $gray-555); // ako browser ne podržava gradijente, bit će $black
+}
+
+.bg-gradient-marinkoMulberry {
+  background: $mulberry-dark linear-gradient($mulberry-dark, $mulberry-light); // ako browser ne podržava gradijente, bit će $mulberry-dark
+}
